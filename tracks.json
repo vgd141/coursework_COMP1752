@@ -1,0 +1,29 @@
+{
+  "tracks": [
+    {
+      "name": "Attention - Charlie Puth",
+      "rating": 1,
+      "plays": 6
+    },
+    {
+      "name": "We Don't Talk Anymore - Charlie Puth",
+      "rating": 1,
+      "plays": 3
+    },
+    {
+      "name": "IDGAF - Dua Lipa",
+      "rating": 2,
+      "plays": 4
+    },
+    {
+      "name": "Shape of You - Ed Sheeran",
+      "rating": 1,
+      "plays": 1
+    },
+    {
+      "name": "Safari - Serena",
+      "rating": 1,
+      "plays": 0
+    }
+  ]
+}
